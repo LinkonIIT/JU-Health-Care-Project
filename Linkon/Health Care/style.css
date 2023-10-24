@@ -1,0 +1,65 @@
+
+
+.nav-edit{
+    color: crimson;
+
+}
+
+.col-lg-9 a{
+    font-family: 'Lobster', cursive;
+    font-weight: bold;
+    font-size: 25px;
+    color: black;
+}
+.col-lg-9 a:hover{
+    color: tomato;
+}
+
+body{
+    background-image: url(images/resize-1693310944986825127Design1.png);
+}
+h1{
+    font-family: 'Lobster', cursive;
+}
+h4{
+    font-family: 'Lobster', cursive;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.btn{
+    color: aliceblue;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-display: white;
+    background-color: darkcyan;
+}
+
+caption{
+    font-family: 'Lobster', cursive;
+}
+ h2{
+    font-size: 30px;
+    font-weight: bold;
+    color: brown;
+ }
+
+ footer {
+    text-align: center;
+    padding: 5px;
+    color: #000;
+  }
+
+  .list{
+    font-weight: bold;
+    color: rgb(49, 9, 194);
+
+    font-family: sans-serif;
+    
+
+  }
+
+
