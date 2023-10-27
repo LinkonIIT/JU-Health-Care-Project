@@ -1,0 +1,159 @@
+body{
+    background-image: url(/images/Homepagemain.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav-edit{
+    color: crimson;
+}
+
+.col-lg-9 a{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 27px;
+    color: black;
+}
+.col-lg-9 a:hover{
+    color: tomato;
+}
+
+.tm{
+    padding: 10px 45px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    font-style: italic;
+    color: blue;
+    border: solid ;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    margin-top: 20px;
+}
+
+#hs img{
+    width: 400px;
+    height: 250px;
+    padding: 10px;
+    border: solid;
+    background-color: red;
+}
+
+.kr img{
+    width: 400px;
+    height: 250px;
+    padding: 10px;
+    border: solid;
+    background-color: orangered;
+}
+
+#lt img{
+    width: 400px;
+    height: 250px;
+    padding: 10px;
+    border: solid;
+    background-color: orange;
+
+}
+
+#ns img{
+    width: 400px;
+    height: 250px;
+    padding: 10px;
+    border: solid;
+    background-color: chocolate;
+}
+
+#oc img{
+    width: 400px;
+    height: 250px;
+    padding: 10px;
+    border: solid;
+    background-color: burlywood;
+}
+
+#it img{
+    width: 400px;
+    height: 250px;
+    padding: 10px;
+    border: solid;
+    background-color: yellow;
+
+}
+
+.NS{
+    text-align: center;
+    padding: 10px 45px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+    color: wheat;
+    border: solid ;
+    border-radius: 10px;
+    background-color: darkblue;
+    margin-top: 10px;
+}
+
+.OC{
+    text-align: center;
+    padding: 10px 45px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+    color: wheat;
+    border: solid ;
+    border-radius: 10px;
+    background-color: darkblue;
+    margin-top: 10px;
+}
+
+.IT{
+    text-align: center;
+    padding: 10px 45px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+    color: wheat;
+    border: solid ;
+    border-radius: 10px;
+    background-color: darkblue;
+    margin-top: 10px;
+}
+
+.HS{
+    text-align: center;
+    padding: 10px 45px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+    color: wheat;
+    border: solid ;
+    border-radius: 10px;
+    background-color: darkblue;
+    margin-top: 10px;
+}
+
+.KR{
+    text-align: center;
+    padding: 10px 45px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+    color: wheat;
+    border: solid ;
+    border-radius: 10px;
+    background-color: darkblue;
+    margin-top: 10px;
+}
+
+.LT{
+    text-align: center;
+    padding: 10px 45px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+    color: wheat;
+    border: solid ;
+    border-radius: 10px;
+    background-color: darkblue;
+    margin-top: 10px;
+}
