@@ -3,6 +3,7 @@
     color: crimson;
 }
 
+
 .col-lg-9 a{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: bold;
@@ -15,7 +16,7 @@
 
 body{
     background-image: url(images/Homepagemain.png);
-    background-repeat: no-repeat;
+   
     background-size: cover;
 }
 h1{
@@ -30,14 +31,27 @@ p{
     font-size: 25px;
 }
 
+
 .btn{
+    align-items: center;
     color: aliceblue;
     font-family: sans-serif;
     font-weight: bold;
     font-display: white;
-    background-color: darkcyan;
+    background-color: rgba(139, 32, 0, 0.767);
 }
-
+.btnHos{
+       padding: 10px 45px;
+        text-align: center;
+        font-size: 40px;
+        font-weight: 600;
+        font-style: italic;
+        color: red;
+        border: solid ;
+        border-radius: 10px;
+        background-color: rgb(175, 213, 201);
+        margin-bottom: 40px;  
+}
 caption{
     font-family: 'Lobster', cursive;
 }
@@ -45,7 +59,7 @@ caption{
 h2{
     font-size: 27px;
     /*font-weight: bold;*/
-    color: blue;
+    color:rgb(32, 143, 78);
 }
 
 footer {
@@ -63,7 +77,7 @@ footer {
 }
 
 .MM{
-    margin-left: -20px;
+    margin-left: -0px;
     padding-top: 390px;
 }
 marquee{
@@ -114,4 +128,9 @@ marquee{
     100%{
         background-image: url(images/Blood.png);
     }
+}
+
+img{
+    max-width: 100%;
+    max-height: 100%
 }
