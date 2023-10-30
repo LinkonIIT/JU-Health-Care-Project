@@ -1,0 +1,46 @@
+.services .heading{
+    color: rgb(44, 41, 41);
+    text-align: center;
+    font-size: 70px;
+    padding-bottom: 2rep;
+}
+
+
+.services .box-container{
+    display: grid;
+    
+    grid-template-columns: repeat(auto-fit, minmax(21rem, 1fr));
+    gap:1rem;
+}
+
+
+.services .box-container .box{
+    background:#fff;
+    border-radius: 0.5rem;
+    box-shadow:.5rem .5rem 0 rgba(22, 160, 133, .2);
+    border:.2rem solid #f00a0ae5;;
+    border-color: rgb(44, 41, 41);
+    padding: 1rem;
+}
+
+.services .box-container .box i{
+    color: #f00a0ae5;
+    font-size: 5rem;
+    padding-bottom: 0.5rem;
+}
+
+.services .box-container .box h3{
+    justify-content: center;
+    color: rgb(29, 29, 29);
+    font-size: 2rem;
+    padding:1rem 0;
+}
+
+.services .box-container .box p{
+    justify-content: center;
+    color: rgb(44, 41, 41);
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+
+  
