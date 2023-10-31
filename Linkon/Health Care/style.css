@@ -142,10 +142,8 @@ footer{
     /*position: absolute;*/
     bottom: 0;
     text-align: center;
-    
-    background-color: rgb(29,27,27);
     width: 100%;
-    color: white;
+    color: black;
     display: grid;
     height: 250px;
     /*grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
@@ -155,7 +153,7 @@ footer{
     font-family: Arial, Helvetica, sans-serif;
     top: 10px;
     font-size: 40px;
-    color: white;
+    color: black;
 }
 
 .text p{
@@ -179,7 +177,6 @@ footer{
 .copy{
     height: 50px;
     width: 100%;
-    background-color: black;
     font-size: 25px;
     line-height: 50px;
     top: 10px;
