@@ -1,5 +1,5 @@
 function appointmentAlert(){
-    alert("Go to 'Contract' Menu to make an Appointment");
+    alert("Your Appointment has been succesfully received. You will receive an Email soon.");
 }
 
 
