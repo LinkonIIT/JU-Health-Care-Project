@@ -183,3 +183,11 @@ footer{
     line-height: 50px;
     top: 10px;
 }
+
+img{
+    height: 350px;
+}
+
+.picSize{
+    width: 600px;
+}
