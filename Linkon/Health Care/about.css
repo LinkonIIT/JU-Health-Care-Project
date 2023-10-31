@@ -33,6 +33,11 @@
     width: 100%;
 }
 
+h3{
+    text-shadow: 2px 2px 2px black;
+    
+}
+
 .about .row .content{
     flex:1 1 45rem;
     width: 100%;
@@ -54,6 +59,8 @@
     line-height: 1.2;
     width: 100%;
 }
+
+#more {display: none;}
 
 
 
